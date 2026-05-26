@@ -55,9 +55,29 @@
 
 ---
 
+---
+
 # 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Parishmitabanik&theme=tokyonight)
+
+---
+
+# 🤝 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/parishmita-banik02/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Parishmita02/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/ParadoxicalAce" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
