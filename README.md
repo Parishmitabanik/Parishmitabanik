@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Parishmita Banik</h1>
 
-<h3 align="center">🚀 MERN Stack Developer | Kotlin Developer | Tech Learner</h3>
+<h3 align="center">🚀 Full Stack MERN Developer | Kotlin Developer | Problem Solver</h3>
 
 ---
 
 # 💫 About Me
 
-- 🌱 Currently learning **MERN Stack**
-- 💻 I know **JavaScript** and **Kotlin**
-- 🔥 Interested in Full Stack Web Development
-- ⚡ Building projects and improving DSA skills
+- 💻 Full Stack Developer skilled in the **MERN Stack**
+- ⚡ Strong knowledge of **JavaScript** and **Kotlin**
+- 🔥 Passionate about building scalable web applications
+- 🌱 Always exploring new technologies and improving development skills
+- 🚀 Love creating real-world projects
 
 ---
 
@@ -17,52 +18,86 @@
 
 ## 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin)
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
+</p>
 
 ---
 
-## 🌐 MERN Stack
+## 🌐 Frontend
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react"/>
+</p>
 
 ---
 
-## ⚙️ Tools
+## ⚙️ Backend
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express"/>
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parishmitabanik&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Parishmitabanik&show_icons=true&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Parishmitabanik&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Parishmitabanik&theme=tokyonight"/>
+</p>
 
 ---
 
 # 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parishmitabanik&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parishmitabanik&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Parishmitabanik)
+<p align="left">
+<a href="https://github.com/Parishmitabanik">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-# ✨ Fun Fact
+# ✨ Developer Quote
 
-> “Code. Learn. Build. Repeat.”
+> “First, solve the problem. Then, write the code.”
