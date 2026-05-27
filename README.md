@@ -81,4 +81,4 @@
 
 # ✨ Quote
 
-> “Learning by building.”
+> “Small commits. Big progress.”
