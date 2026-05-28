@@ -57,7 +57,7 @@
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Parishmitabanik&theme=tokyonight&cache_seconds=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=Parishmitabanik&theme=tokyonight&hide_border=true&cache_seconds=1)
 
 ---
 
