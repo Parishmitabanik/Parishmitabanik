@@ -81,4 +81,4 @@
 
 # ✨ Quote
 
-> “Coding and learni.”
+> “> “Coding and learning every day.””
