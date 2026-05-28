@@ -81,4 +81,4 @@
 
 # ✨ Quote
 
-> “Small commits. Big progress.”
+> “Coding and learning.”
