@@ -81,4 +81,4 @@
 
 # ✨ Quote
 
-> “Coding and learning.”
+> “Coding and learni.”
