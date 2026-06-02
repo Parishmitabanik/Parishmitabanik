@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parishmita Banik</h1>
-
+ 
 <h3 align="center">
 💻 ANDROID Developer | MERN Stack Enthusiast 
 </h3>
