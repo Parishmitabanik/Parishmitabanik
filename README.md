@@ -9,9 +9,9 @@
 # 💫 About Me
 
 - 🌱 Exploring MERN Stack
-- 💻 Familiar with JavaScript, Kotlin, Jetpack Compose, and XML
-- 🚀 Interested in Web and Android Development
-- ⚡ Love building projects and learning new technologies
+- 💻 Familiar with JavaScript, Kotlin, Jetpack Compose, and XML.
+- 🚀 Interested in Web and Android Development.
+- ⚡ Love building projects and learning new technologies.
 
 ---
 
